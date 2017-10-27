@@ -1,7 +1,7 @@
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/mariuspot/TensorFlow-Tutorials/master)
 
 
-[![]http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/mariuspot/TensorFlow-Tutorials/master)
+[![](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/mariuspot/TensorFlow-Tutorials/master)
 
 # TensorFlow Tutorials
 
